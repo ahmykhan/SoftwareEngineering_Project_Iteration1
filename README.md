@@ -16,7 +16,9 @@ MythicHeats is a specialized academic management and resource platform designed 
 > The React app runs directly from the project root. Please `cd .` (stay in root) to run the frontend.
 
 ## How to Run the Frontend
-
+**Navigate to the frontend directory:**
+   ```sh
+   cd frontend
 ```sh
 # 1. Install dependencies
 npm install
